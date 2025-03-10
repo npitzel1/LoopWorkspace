@@ -285,6 +285,7 @@ jobs:
           future_carbs_4h \
           high_carb_limit \
           profiles \
+          negative_insulin \
           bolus_display \
           g7_scan
           # the final customization listed above CANNOT have a continuation character
